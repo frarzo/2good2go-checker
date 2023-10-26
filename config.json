@@ -1,0 +1,12 @@
+{
+    "tg": {
+        "bot_token": "BOTTOKEN",
+        "chatID": 0
+    },
+    "2g2g": {
+        "access_token": "",
+        "refresh_token": "",
+        "user_id": "",
+        "cookie": ""
+    }
+}
